@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/sneak-ai',
+  basePath: '/Sneak-AI',
   images: {
     domains: ['images.unsplash.com', 'unsplash.com', 'localhost'],
     unoptimized: true,
