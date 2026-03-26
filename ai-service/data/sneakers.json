@@ -1,0 +1,441 @@
+[
+  {
+    "id": "1",
+    "name": "Air Nova X",
+    "brand": "Nike",
+    "price": 15799,
+    "color": "Black/White",
+    "style": "street",
+    "category": "Running",
+    "rating": 4.8,
+    "features": [
+      "ZoomX Foam",
+      "Flyknit Upper",
+      "React Midsole",
+      "Rubber Outsole"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1605340537586-643ed28f5979?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1605340537586-643ed28f5979?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Ultra Boost 24",
+    "brand": "Adidas",
+    "price": 16599,
+    "color": "Cloud White",
+    "style": "sport",
+    "category": "Running",
+    "rating": 4.7,
+    "features": [
+      "BOOST Midsole",
+      "Primeknit+ Upper",
+      "Continental Outsole",
+      "Torsion System"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1584735174965-48c48d7cdfde?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1584735174965-48c48d7cdfde?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Yeezy Slide Onyx",
+    "brand": "Adidas",
+    "price": 12399,
+    "color": "Onyx",
+    "style": "casual",
+    "category": "Slides",
+    "rating": 4.5,
+    "features": [
+      "EVA Foam",
+      "Lightweight Build",
+      "Contoured Footbed"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Jordan 1 Retro High",
+    "brand": "Nike",
+    "price": 14899,
+    "color": "Chicago",
+    "style": "street",
+    "category": "Basketball",
+    "rating": 4.9,
+    "features": [
+      "Premium Leather",
+      "Air-Sole Unit",
+      "Rubber Cupsole",
+      "Perforated Toe"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "New Balance 990v6",
+    "brand": "New Balance",
+    "price": 18299,
+    "color": "Grey",
+    "style": "casual",
+    "category": "Lifestyle",
+    "rating": 4.8,
+    "features": [
+      "ENCAP Midsole",
+      "FuelCell Foam",
+      "Pigskin Suede",
+      "Breathable Mesh"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Gel-Kayano 14",
+    "brand": "Asics",
+    "price": 13299,
+    "color": "Silver/White",
+    "style": "sport",
+    "category": "Running",
+    "rating": 4.6,
+    "features": [
+      "GEL Technology",
+      "Trusstic System",
+      "IGS Technology",
+      "Blown Rubber Outsole"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Dunk Low Panda",
+    "brand": "Nike",
+    "price": 9999,
+    "color": "Black/White",
+    "style": "street",
+    "category": "Lifestyle",
+    "rating": 4.7,
+    "features": [
+      "Leather Upper",
+      "Foam Midsole",
+      "Rubber Outsole",
+      "Padded Collar"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Cloudmonster 2",
+    "brand": "On",
+    "price": 14899,
+    "color": "Undyed/Frost",
+    "style": "sport",
+    "category": "Running",
+    "rating": 4.6,
+    "features": [
+      "CloudTec Phase",
+      "Helion Superfoam",
+      "Speedboard",
+      "Engineered Mesh"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Forum Low",
+    "brand": "Adidas",
+    "price": 9099,
+    "color": "Cloud White/Green",
+    "style": "casual",
+    "category": "Lifestyle",
+    "rating": 4.4,
+    "features": [
+      "Leather Upper",
+      "EVA Midsole",
+      "Adjustable Strap",
+      "Rubber Outsole"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Saucony Shadow 6000",
+    "brand": "Saucony",
+    "price": 10799,
+    "color": "Green/Brown",
+    "style": "casual",
+    "category": "Lifestyle",
+    "rating": 4.3,
+    "features": [
+      "ABZORB Cushioning",
+      "Suede/Mesh Upper",
+      "Rubber Outsole",
+      "EVA Midsole"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Air Max 97 Silver Bullet",
+    "brand": "Nike",
+    "price": 15399,
+    "color": "Metallic Silver",
+    "style": "street",
+    "category": "Lifestyle",
+    "rating": 4.7,
+    "features": [
+      "Full-Length Air",
+      "3M Reflective",
+      "Synthetic Upper",
+      "Rubber Outsole"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Puma Suede XL",
+    "brand": "Puma",
+    "price": 7499,
+    "color": "Clyde Royal/White",
+    "style": "casual",
+    "category": "Lifestyle",
+    "rating": 4.2,
+    "features": [
+      "Suede Upper",
+      "Rubber Outsole",
+      "SoftFoam Sockliner",
+      "Formstrip Branding"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Salomon XT-6",
+    "brand": "Salomon",
+    "price": 16599,
+    "color": "Vanilla Ice",
+    "style": "sport",
+    "category": "Trail",
+    "rating": 4.8,
+    "features": [
+      "Contagrip MA",
+      "Advanced Chassis",
+      "SensiFit",
+      "Quicklace"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1579338559194-a162d19bf842?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1579338559194-a162d19bf842?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Reebok Club C 85",
+    "brand": "Reebok",
+    "price": 7099,
+    "color": "White/Green",
+    "style": "casual",
+    "category": "Lifestyle",
+    "rating": 4.4,
+    "features": [
+      "Leather Upper",
+      "Die-Cut EVA",
+      "Rubber Outsole",
+      "Padded Foam Sockliner"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Air Force 1 Low",
+    "brand": "Nike",
+    "price": 9499,
+    "color": "Triple White",
+    "style": "street",
+    "category": "Lifestyle",
+    "rating": 4.8,
+    "features": [
+      "Full-Grain Leather",
+      "Encapsulated Air",
+      "Non-Marking Outsole",
+      "Perforated Toe"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "HOKA Bondi 8",
+    "brand": "HOKA",
+    "price": 13699,
+    "color": "Black/Black",
+    "style": "sport",
+    "category": "Running",
+    "rating": 4.7,
+    "features": [
+      "Full EVA Midsole",
+      "Meta-Rocker",
+      "Ortholite Sockliner",
+      "Durabrasion Outsole"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Converse Chuck 70 Hi",
+    "brand": "Converse",
+    "price": 7499,
+    "color": "Parchment",
+    "style": "casual",
+    "category": "Lifestyle",
+    "rating": 4.5,
+    "features": [
+      "Premium Canvas",
+      "OrthoLite Insole",
+      "Egret Midsole",
+      "Rubber Outsole"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Vans Old Skool",
+    "brand": "Vans",
+    "price": 6199,
+    "color": "Black/White",
+    "style": "street",
+    "category": "Skateboarding",
+    "rating": 4.6,
+    "features": [
+      "Suede/Canvas Upper",
+      "Waffle Outsole",
+      "Padded Collar",
+      "Vulcanized Construction"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Balenciaga Track",
+    "brand": "Balenciaga",
+    "price": 90499,
+    "color": "White/Orange",
+    "style": "luxury",
+    "category": "Designer",
+    "rating": 4.3,
+    "features": [
+      "Multi-Material Upper",
+      "Sculpted Sole",
+      "Mesh Panels",
+      "Logo Details"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Nike SB Dunk Low Pro",
+    "brand": "Nike",
+    "price": 9499,
+    "color": "Court Purple",
+    "style": "street",
+    "category": "Skateboarding",
+    "rating": 4.6,
+    "features": [
+      "Zoom Air Insole",
+      "Suede/Leather Upper",
+      "Herringbone Outsole",
+      "Padded Tongue"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "image_urls": [
+      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&w=800&q=80"
+    ]
+  }
+]
